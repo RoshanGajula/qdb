@@ -1,4 +1,3 @@
-
 1) What would be the output of below code: 
 
 var salary = "1000$";
@@ -14,8 +13,8 @@ var salary = "1000$";
 Ans:- Undefined
       5000$
    
-  
-2) What would be the output of below code: 
+  2) What would be the output of below code:
+
 var testVar = "I'm a global";
 
 function example( )
